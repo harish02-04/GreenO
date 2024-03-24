@@ -35,10 +35,7 @@ GreenO is a web application designed to support the "One Student One Tree" initi
 
 - **College Statistics**
 ![Screenshot (101)](https://github.com/harish02-04/GreenO/assets/121707427/632dedf2-c220-4d51-a3fa-4d351a64da80)
-![Screenshot (101)](![Screenshot (102)](https://github.com/harish02-04/GreenO/assets/121707427/112d81ca-b6e3-4c79-b792-777403fccc5c)
+![Screenshot (102)](https://github.com/harish02-04/GreenO/assets/121707427/112d81ca-b6e3-4c79-b792-777403fccc5c)
 ![Screenshot (103)](https://github.com/harish02-04/GreenO/assets/121707427/52dd4699-8478-4fce-8bbd-ab6219cfb6bb)
 
 
-
-## Demo Video
-[![Demo Video]()
